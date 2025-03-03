@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:what_to_cook/constants/themes.dart';
+import 'package:what_to_cook/app/theme/app_theme.dart';
 import 'blocs/blocs.dart';
 import 'views/home/home.dart';
 
